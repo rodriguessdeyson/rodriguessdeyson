@@ -1,5 +1,5 @@
 #
-<h1 align="center">Hi 👋, I'm Deyson Rodrigues <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Deyson Rodrigues</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **iLuminus App**
